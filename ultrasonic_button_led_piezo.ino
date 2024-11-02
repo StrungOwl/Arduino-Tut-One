@@ -1,9 +1,6 @@
-//Add Comment Here
 //Output
 const int ledPin = 13;
 const int piezoPin = 5;
-
-//Adding a different comment in same place
 
 //Button
 const int buttonPin = 10;
