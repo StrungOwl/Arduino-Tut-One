@@ -2,6 +2,10 @@
 const int ledPin = 13;
 const int piezoPin = 5;
 
+//Servo 
+Servo myServo1;
+Servo myServo2; 
+
 //Button
 const int buttonPin = 10;
 int buttonVal;
