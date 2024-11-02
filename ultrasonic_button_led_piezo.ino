@@ -1,6 +1,6 @@
 //Output
 const int ledPin = 13;
-const int piezoPin = 4;
+const int piezoPin = 5;
 
 //Button
 const int buttonPin = 10;
