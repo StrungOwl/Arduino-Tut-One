@@ -2,9 +2,6 @@
 const int ledPin = 13;
 const int piezoPin = 5;
 
-//Took out comment above
-//Adding comment here
-
 //Button
 const int buttonPin = 10;
 int buttonVal;
