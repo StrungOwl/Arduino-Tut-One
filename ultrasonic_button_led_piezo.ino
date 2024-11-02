@@ -3,9 +3,6 @@
 const int ledPin = 13;
 const int piezoPin = 5;
 
-//Servos
-Servo myServo; 
-
 //Button
 const int buttonPin = 10;
 int buttonVal;
